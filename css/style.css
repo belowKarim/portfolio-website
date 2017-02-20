@@ -477,7 +477,7 @@
 
 	.fixed-text{
 		/*font-size: 60px;*/
-		font-size: 38px;
+		font-size: 52px;
 		color:#a8a8a8;
 		margin:0;
 	}
@@ -1515,6 +1515,7 @@
 		position: absolute;
 		bottom:-35px;
 		height: auto;
+		display: none;
 	}
 
 	.timeline-images a.timeline-image{
